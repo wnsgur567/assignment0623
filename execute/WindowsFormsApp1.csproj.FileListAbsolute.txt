@@ -1,0 +1,65 @@
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\wnsgu\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\IT학교\Desktop\C# 과제중_23일까지 해야됨 - 복사본 - 복사본\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
